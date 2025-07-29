@@ -24,7 +24,6 @@ credit-risk-default/
 ├── models/ # Trained ML models
 ├── dashboard/ # Power BI file (.pbix)
 ├── README.md # Project overview
-├── requirements.txt # Python dependencies
 └── LICENSE # (Optional open-source license)
 
 
